@@ -1,0 +1,4 @@
+metadata.json
+*.swp
+.kitchen/
+.kitchen.local.yml
