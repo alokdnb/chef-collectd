@@ -35,7 +35,7 @@ package "collectd" do
   package_name "collectd"
 end
 
-package "collectd-iptables" do
+package "collectd-iptables"
 
 service "collectd" do
   supports :restart => true, :status => true
